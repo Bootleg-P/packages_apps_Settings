@@ -108,7 +108,7 @@ public class StorageVolumePreference extends Preference {
             }
 
             if (freeBytes < mStorageManager.getStorageLowBytes(path)) {
-                mColor = Utils.getColorAttr(context, android.R.attr.colorError);
+                mColor = Utils.getColorAttrDefaultColor(context, android.R.attr.colorError);
                 icon = context.getDrawable(R.drawable.ic_warning_24dp);
             }
 
