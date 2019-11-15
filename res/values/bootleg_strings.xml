@@ -389,4 +389,14 @@
     <string name="tinsulter19">IT\'S NO USE</string>
     <string name="tinsulter20">Did you saw the Drill on the Dumpster?</string>
 
+    <!-- Switch styles -->
+    <string name="switch_style_title">Switch styler</string>
+    <string name="switch_default">Default</string>
+    <string name="switch_md2">Material Design 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_narrow">Narrow</string>
+    <string name="switch_contained">Contained</string>
+    <string name="switch_retro">Retro</string>
+    <string name="switch_stockish">Stockish</string>
+
 </resources>

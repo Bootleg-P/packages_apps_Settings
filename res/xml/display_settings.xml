@@ -70,6 +70,13 @@
         android:defaultValue="false" />
 
     <ListPreference
+        android:key="switch_styler"
+        android:title="@string/switch_style_title"
+        android:persistent="false"
+        android:entries="@array/switch_style_entries"
+        android:entryValues="@array/switch_style_values" />
+
+    <ListPreference
         android:key="system_theme_style"
         android:title="@string/device_theme"
         android:persistent="false"
