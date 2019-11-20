@@ -399,4 +399,7 @@
     <string name="switch_retro">Retro</string>
     <string name="switch_stockish">Stockish</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Battery temperature</string>
+
 </resources>
