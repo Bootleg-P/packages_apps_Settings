@@ -159,7 +159,6 @@ public class AppInfoDashboardFragment extends DashboardFragment
         super.onAttach(context);
         final String packageName = getPackageName();
         use(TimeSpentInAppPreferenceController.class).setPackageName(packageName);
-        use(ThermalControlPerAppPreferenceController.class).setPackageName(packageName);
 
         use(AppDataUsagePreferenceController.class).setParentFragment(this);
         final AppInstallerInfoPreferenceController installer =

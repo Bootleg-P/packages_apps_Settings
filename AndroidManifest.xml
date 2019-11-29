@@ -98,9 +98,6 @@
     <uses-permission android:name="android.permission.USE_RESERVED_DISK" />
     <uses-permission android:name="android.permission.MANAGE_SCOPED_ACCESS_DIRECTORY_PERMISSIONS" />
 
-    <!-- Thermal controller -->
-    <uses-permission android:name="com.bootleggers.thermalcontroller.MANAGE_SETTINGS" />
-
     <!-- LiveDisplay -->
     <uses-permission android:name="lineageos.permission.HARDWARE_ABSTRACTION_ACCESS" />
     <uses-permission android:name="lineageos.permission.MANAGE_LIVEDISPLAY" />
